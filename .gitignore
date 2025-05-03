@@ -1,0 +1,21 @@
+# Файлы окружения
+.env
+.env.local
+
+# Бинарники и временные файлы
+*.exe
+*.out
+/bin/
+/tmp/
+
+# IDE
+.idea/
+.vscode/
+
+# Логи и данные
+*.log
+/backups/
+/storage/
+
+# Go-специфичное
+go.work
